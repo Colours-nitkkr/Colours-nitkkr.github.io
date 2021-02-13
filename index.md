@@ -130,7 +130,7 @@ ext-js:
 
 <div id="cta-out" class="page-section">
   <div id="cta">
-    <div class="section-title">Take Your Shiny Apps to the Highest Level</div><br/>
+    <div class="section-title">Have influential ideas? Collaborate with us.</div><br/>
   </div>
   <a href="/contact" class="actionbtn">
     <span class="far fa-envelope" aria-hidden="true"></span>
