@@ -39,20 +39,20 @@ ext-js:
     <div id="services-list">
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
-        <div class="service-text">Collaborating and Contributing on projects of any complexity</div>
+        <div class="service-text">Computer Vision </div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
-        <div class="service-text">Expert advice, training, and workshops in Shiny/R</div>
+        <div class="service-text">Reinforcement Learning</div>
       </div>
       <div id="services-break"></div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
-        <div class="service-text">Code review and optimization of Shiny apps and workflows</div>
+        <div class="service-text">Natural Language Processing</div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
-        <div class="service-text">Professional quality R packages and custom solutions</div>
+        <div class="service-text">Data Science/Machine Learning</div>
       </div>
     </div>
 
