@@ -7,7 +7,7 @@ author: KAIR
 navbar-links:
   Services: "/#services"
   About Us: "/#aboutus"
-  Research Groups: "/#clients"
+  Research Groups: "/#aboutme-section"
   Open-Source: "/#portfolio"
   Contact Us: "/contact"
 
@@ -25,10 +25,6 @@ navbar-border-col: "#05172d"
 social-network-links:
   email: "kurukshetra.ai.research@gmail.com"
   github: KurukshetraAI
-  twitter: daattali
-  calendly: "attalitech/meeting"
-  youtube: "c/daattali?sub_confirmation=1"
-  patreon: DeanAttali
 
 url-pretty: "AttaliTech.com"
 
