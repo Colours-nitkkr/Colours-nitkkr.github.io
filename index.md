@@ -94,20 +94,6 @@ ext-js:
   </div>
 </div>
 
-<div id="clients-out" class="page-section cut1">
-  <div id="clients">
-    <div class="section-title">Clients</div>
-    <div id="clients-subtitle">Clients range from startups to universities to Fortune 500 companies</div>
-    <div id="client-logos">
-      {% for client in site.data.clients %}
-        <a class="client-img" href="{{ client.url }}" title="{{ client.name }}">
-          <img alt="{{ client.name }}" src="/assets/img/logos/{{ client.img }}" />
-        </a>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-
 <div class="cut-buffer"></div>
 
 <div id="aboutme-section-out" class="page-section grey-section cut2">
