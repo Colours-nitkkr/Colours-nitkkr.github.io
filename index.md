@@ -80,8 +80,14 @@ ext-js:
   <div id="values">
 	  <div class="section-title">Our Values</div>
     <div id="values-text">
-      At AttaliTech, we care about good code, good user experience, and doing things <b>right</b>.<br/><br/>
-      We believe in developing every project as if it's your own, <b>never </b>compromising on code quality or end-user experience. We focus on more than just delivering a final product - we're always looking for ways to add more <b>value</b> to our clients. Our clients enjoy peace of mind knowing they can trust us to deliver clean, robust, maintainable code that just works.
+      At KAIR, we care about good code, great learning experience, and doing things <b>the way they should be</b>.<br/><br/>
+      We believe that the challenges the world is facing today are enormous. These
+      issues can be inevitably addressed with the help of AI, which is a huge part
+      of the next technological revolution. We understand that there's a need to 
+      promote the AI culture in colleges to make people learn and become 
+      familiar with the ongoing trend in the field of tech, so that they can 
+      contribute in solving real world problems. We are first ever AI Research Club
+      of NIT, Kurukshetra!
     </div>
     <a href="/contact" class="actionbtn">
       Work With Us
@@ -123,16 +129,14 @@ ext-js:
 <div id="portfolio-out" class="page-section grey-section">
   <div id="portfolio">
     <div class="section-title">
-      Open-Sourced Shiny Apps
+      Open-Sourced Projects
     </div>
     <div id="shinyapps-big">
       {% for app in site.data.portfolio %}
 	    <div class="shinyapp">
-          <a class="applink" href="{{ app.url }}">
             <img class="appimg" src="/assets/img/screenshots/{{ app.img }}" />
             <div class="apptitle">{{ app.title }}</div>
             <div class="appdesc">{{ app.description }}</div>
-          </a>
         </div>
 	  {% endfor %}
     </div>
