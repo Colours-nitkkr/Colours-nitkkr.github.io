@@ -1,8 +1,8 @@
 - icon: fa fa-eye
-  content: "**Author of popular packages** [shinyjs](https://deanattali.com/shinyjs) ([featured by RStudio](https://shiny.rstudio.com/articles)), [timevis](https://github.com/daattali/timevis), [addinslist](https://github.com/daattali/addinslist) & [more](https://deanattali.com/projects/#r-packages)"
+  content: "**Computer Vision.** Computer vision consists the techniques of extracting useful information from images and videos. It is crucial for smart navigation in self driving vehicles."
 - icon: fas fa-robot
-  content: Creator of ["Shiny Case Studies"](https://www.datacamp.com/courses/case-studies-building-web-applications-with-shiny-in-r) course — an interactive, online video course
+  content: "**Reinforcement Learning.** Reinforcement learning is a machine learning technique based on a reward based system in which a system learns from feedback from outputs and evolves over time."
 - icon: fas fa-comment-dots
-  content: Invited main speaker at **Shiny Developer Conference** hosted by RStudio - [30 min talk](https://resources.rstudio.com/shiny-developer-conference/shinydevcon-shinyjs-deanattali-1080p)
+  content: "**Natural Language Processing.** Nlp interprets human natural language in the form of speech or text and deduces meaningful insights from it. It is used widely on social media platforms and in spam detection."
 - icon: fa fa-database
-  content: "**Second highest** all-time answerer in the \"shiny\" tag on [StackOverflow](https://stackoverflow.com/tags/shiny/topusers)"
+  content: "**Data Science/Machine Learning.** Data science, in a very specific sense is the process of using computational and statistical algorithm to derive insights from data to achieve better actions. Data science forms the core of great business intelligence technologies today."
