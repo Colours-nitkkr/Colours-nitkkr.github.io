@@ -80,14 +80,13 @@ ext-js:
   <div id="values">
 	  <div class="section-title">Our Values</div>
     <div id="values-text">
-      At KAIR, we care about good code, great learning experience, and doing things <b>the way they should be</b>.<br/><br/>
-      We believe that the challenges the world is facing today are enormous. These
+      At KAIR, we care about good code, great learning experience, and doing things the way they should be.<br/><br/>
+      The challenges the world is facing today are enormous. These
       issues can be inevitably addressed with the help of AI, which is a huge part
-      of the next technological revolution. We understand that there's a need to 
-      promote the AI culture in colleges to make people learn and become 
+      of the next technological revolution. We believe that there's a need to 
+      promote the AI culture in colleges to make people become 
       familiar with the ongoing trend in the field of tech, so that they can 
-      contribute in solving real world problems. We are first ever AI Research Club
-      of NIT, Kurukshetra!
+      contribute in solving real world problems. <b>We are the first ever AI Research Club of NIT, Kurukshetra!</b>
     </div>
     <a href="/contact" class="actionbtn">
       Work With Us
