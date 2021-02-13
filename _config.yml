@@ -11,7 +11,7 @@ navbar-links:
   Open-Source: "/#portfolio"
   Contact Us: "/contact"
 
-title-img: /assets/img/kair-logo-2.png
+# title-img: /assets/img/kair-logo-2.png
 
 site-css: "/assets/css/attalitech.css"
 
