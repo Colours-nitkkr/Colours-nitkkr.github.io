@@ -4,7 +4,5 @@
   content: Creator of ["Shiny Case Studies"](https://www.datacamp.com/courses/case-studies-building-web-applications-with-shiny-in-r) course — an interactive, online video course
 - icon: fas fa-microphone
   content: Invited main speaker at **Shiny Developer Conference** hosted by RStudio - [30 min talk](https://resources.rstudio.com/shiny-developer-conference/shinydevcon-shinyjs-deanattali-1080p)
-- icon: fas fa-trophy
+- icon: fa fa-database
   content: "**Second highest** all-time answerer in the \"shiny\" tag on [StackOverflow](https://stackoverflow.com/tags/shiny/topusers)"
-- icon: fas fa-briefcase
-  content: Previously a **software engineer** at **Google** and top San Francisco startup [Wish.com](https://www.wish.com/)
