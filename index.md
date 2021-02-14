@@ -84,8 +84,7 @@ ext-js:
       The challenges the world is facing today are enormous. These
       issues can be inevitably addressed with the help of AI, which is a huge part
       of the next technological revolution. We believe that there's a need to 
-      promote the AI culture in colleges to make people become 
-      familiar with the ongoing trend in the field of tech, so that they can 
+      promote the AI culture in colleges to make people aware of the ongoing trend in the field of tech, so that they can 
       contribute in solving real world problems. <b>We are the first ever AI Research Club of NIT, Kurukshetra!</b>
     </div>
     <a href="/contact" class="actionbtn">
