@@ -80,8 +80,8 @@ ext-js:
   <div id="values">
 	  <div class="section-title">Our Values</div>
     <div id="values-text">
-      • We spread awareness by bringing into attention various mental health issues relevant to youth and verse all about them. 
-      • We try to normalise mental health conversations in our campus.
+      • We spread awareness by bringing into attention various mental health issues relevant to youth and verse all about them.//
+      • We try to normalise mental health conversations in our campus.//
       • We promote health seeking behaviour thus making it easy for someone in need to talk about the problem they might be facing.
 
     </div>
