@@ -38,20 +38,20 @@ ext-js:
     <div class="section-title">What We Do</div>
     <div id="services-list">
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Q1.png" />
         <div class="service-text">Monthly Theme</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Q2.png" />
         <div class="service-text">NGO Collaborations</div>
       </div>
       <div id="services-break"></div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Q3.png" />
         <div class="service-text">Confluence</div>
       </div>
       <div class="service">
-        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
+        <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Q4.png" />
         <div class="service-text">Workshops</div>
       </div>
     </div>
@@ -95,7 +95,7 @@ ext-js:
 
 <div id="aboutme-section-out" class="page-section grey-section cut2">
   <div id="aboutme-section">
-    <div class="section-title">Research Groups</div>
+    <div class="section-title">Journey of Colours</div>
 	<div id="aboutme-list" markdown="1">
 {% for info in site.data.main_info %}
 {% if info.icon %}<span class="about-icon fa-fw {{ info.icon }}" aria-hidden="true"></span>{% endif info.icon %}
