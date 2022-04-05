@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "KAIR"
+title: "Colours"
 css:
   - /assets/css/index.css
 ext-css:
@@ -15,9 +15,9 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-#        KAIR {#title}
+#        Colours {#title}
 
-## Exploring The World Humanly {#subtitle}
+## A Happy Place {#subtitle}
 
 <a href="/contact" class="actionbtn">
   <span class="far fa-envelope" aria-hidden="true"></span>
@@ -39,20 +39,20 @@ ext-js:
     <div id="services-list">
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Work risk-free.png" />
-        <div class="service-text">Computer Vision </div>
+        <div class="service-text">Monthly Theme</div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Bug tracking.png" />
-        <div class="service-text">Reinforcement Learning</div>
+        <div class="service-text">NGO Collaborations</div>
       </div>
       <div id="services-break"></div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Successful completion of project.png" />
-        <div class="service-text">Natural Language Processing</div>
+        <div class="service-text">Confluence</div>
       </div>
       <div class="service">
         <img class="service-img" alt="Service image" src="/assets/img/scale-flexiple/Complex dashboard.png" />
-        <div class="service-text">Data Science/Machine Learning</div>
+        <div class="service-text">Workshops</div>
       </div>
     </div>
 
@@ -69,7 +69,7 @@ ext-js:
   <div id="aboutus">
     <div class="section-title">About Us</div>
     <div id="aboutus-text">
-    We're a group of <b>passionate and innovation driven individuals</b> who like to solve problems using the power of <b>AI.</b> We want to be a part of the next technological revolution through AI as well as empower more and more people with it. 
+    We are a club of dedicated individuals aiming to spread awareness about mental health inside and outside the campus of NIT Kurukshetra. Striving to become the helping hand to anyone in need and a listening ear to anyone who wants to be heard. Colours aims to be your happy place, where there are no rights or wrongs, no judgements or prejudice and no discriminations of any sorts. Just a place to reach out to when you are low. From academics, relationships and LGBT+ conversations to anything and everything disturbing your peace of mind, Colours is there to help. Your Happy Place. 
     </div>
   </div>
 </div>
@@ -80,12 +80,10 @@ ext-js:
   <div id="values">
 	  <div class="section-title">Our Values</div>
     <div id="values-text">
-      At KAIR, we care about good code, great learning experience, and doing things the way they should be.<br/><br/>
-      The challenges the world is facing today are enormous. These
-      issues can be inevitably addressed with the help of AI, which is a huge part
-      of the next technological revolution. We believe that there's a need to 
-      promote the AI culture in colleges to make people aware of the ongoing trend in the field of tech, so that they can 
-      contribute in solving real world problems. <b>We are the first ever AI Research Club of NIT, Kurukshetra!</b>
+      • We spread awareness by bringing into attention various mental health issues relevant to youth and verse all about them. 
+      • We try to normalise mental health conversations in our campus.
+      • We promote health seeking behaviour thus making it easy for someone in need to talk about the problem they might be facing.
+
     </div>
     <a href="/contact" class="actionbtn">
       Work With Us
