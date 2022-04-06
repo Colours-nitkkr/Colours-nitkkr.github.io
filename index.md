@@ -111,7 +111,7 @@ ext-js:
 <div id="portfolio-out" class="page-section grey-section">
   <div id="portfolio">
     <div class="section-title">
-      Open-Sourced Projects
+      Collaborations
     </div>
     <div id="shinyapps-big">
       {% for app in site.data.portfolio %}
