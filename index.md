@@ -128,7 +128,7 @@ ext-js:
 
 <div id="cta-out" class="page-section">
   <div id="cta">
-    <div class="section-title"><span>Have influential ideas?</br>Collaborate with us.</span></div><br/>
+    <div class="section-title"><div>Have influential ideas?</div></br>Collaborate with us.</div><br/>
   </div>
   <a href="/contact" class="actionbtn">
     <span class="far fa-envelope" aria-hidden="true"></span>
