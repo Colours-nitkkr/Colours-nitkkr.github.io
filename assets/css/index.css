@@ -65,9 +65,9 @@ footer {
 #header {
   text-align: center;
   margin-top: 3.125rem;
-  background: #05172d;
+  background: #000000;
   padding: 10rem 0 13rem;
-  color: #fff;
+  color: #000;
   background-image: url(/assets/img/Cover.jpeg);
 }
 #header h1,
@@ -112,8 +112,8 @@ footer {
 }
 #header .actionbtn {
   margin-top: 7rem;
-  color: #fff;
-  background: #05172d;
+  color: #000000;
+  background: #000000;
   border: 2px solid #fff;
 }
 #header .actionbtn:hover,
@@ -182,7 +182,7 @@ footer {
 
 .page-section {
   margin-top: -1px;
-  color: #615d6d;
+  color: #000000;
   text-align: center;
   padding: 4.5rem 0;
   background: #fff;
@@ -303,7 +303,7 @@ footer {
 }
 #cta-out {
   margin: 0 auto;
-  background: url(/assets/img/Cover.jpg);
+  background: url(/assets/img/Coverr.png);
   background-size: cover;
   background-position: 0 50%;
   color: #fff;
